@@ -1,6 +1,13 @@
 # Pixel-Art-Maker
-Project pixel art maker. Choose design patterns to grid cells, make an awesome design
 
-Pixel art maker is a design with cell grids.
-Pick a favorite color and apply it to cells to make a design pattern.
-Colors are optional, you are not limited to one
+Project pixel art maker.
+
+Select rows and column number to set table.
+
+Select submit and make an awesome design.
+
+There are no limititation on color choice. 
+
+You can set your own color. Select more and apply
+
+[Demo page](https://patrickkyei.github.io/Pixel-Art-Maker/)
